@@ -1,0 +1,38 @@
+[
+    {
+        "img": "https://news.linkedin.com/content/dam/me/LinkedIn_Events_header_744x360_v2.png",
+        "title": "Festival Greeting App",
+        "desc": "An intractive and customizable app for creating and sharing beautiful festival greetings. Celebrate every occasion with personalized messages, vibrant themes, and engaging designs!.",
+        "link": "https://dhanushmathan.github.io/Festival-greeting-app/"
+    },
+    {
+        "img": "https://news.linkedin.com/content/dam/me/LinkedIn_Events_header_744x360_v2.png",
+        "title": "Naruto Shippuden API",
+        "desc": "A RESTful API built with Node.js that provides details about Naruto Shippuden characters. It includes information like their name, village, rank, skills, and team. This project is ideal for anime fans and developers looking to integrate Naruto-themed data into their applications.",
+        "link": "https://naruto-api-character.onrender.com/api/characters"
+    },
+    {
+        "img": "https://news.linkedin.com/content/dam/me/LinkedIn_Events_header_744x360_v2.png",
+        "title": "RTO Number Finder",
+        "desc": "The RTO NumberPlate Finder is a web application that helps users identify details about vechicels based on their registration number.",
+        "link": "https://dhanushmathan.github.io/RTO-Number-Finder/"
+    },
+    {
+        "img": "https://news.linkedin.com/content/dam/me/LinkedIn_Events_header_744x360_v2.png",
+        "title": "Ringtune-App",
+        "desc": "Download your favourite ringtone in seconds. A ringtone is the sound your phone makes when someone calls or texts you! The ringtone of an old-fashioned telephone was produced by an actual bell being rung.",
+        "link": "https://dhanushmathan.github.io/Ringtune-App/"
+    },
+    {
+        "img": "https://news.linkedin.com/content/dam/me/LinkedIn_Events_header_744x360_v2.png",
+        "title": "Netflix clone",
+        "desc": "This Netflix clone project aims to replicate the main featutres of the popular streaming platform, focusing on frontend development skills and UI/UX design. The project designed to showcase responsive design, interactive elements, and dynamic project.",
+        "link": "https://dhanushmathan.github.io/Netflix-clone/"
+    },
+    {
+        "img": "https://news.linkedin.com/content/dam/me/LinkedIn_Events_header_744x360_v2.png",
+        "title": "Calculator App",
+        "desc": "The Calculator App is a simple and user-friendly application designed to perform based mathematical operations. Its intuitive interface allow users to carry out calculations efficiently.",
+        "link": "https://dhanushmathan.github.io/Calculator-App/"
+    }
+]
