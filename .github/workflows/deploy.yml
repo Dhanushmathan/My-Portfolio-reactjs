@@ -3,21 +3,22 @@ name: Deploy React App to GitHub Pages
 on:
   push:
     branches:
-      - main  # Default branch
+      - main  # Default branch name
 
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
 
     steps:
-      # Step 1: Checkout repository
+      # Step 1: Checkout the repository
       - name: Checkout Repository
         uses: actions/checkout@v3
 
       # Step 2: Setup Node.js
+      - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '16'  # React-க்கு support-ஆக இருக்கும் version
+          node-version: '16'  # Replace with the Node.js version your project supports
 
       # Step 3: Install dependencies
       - name: Install Dependencies
